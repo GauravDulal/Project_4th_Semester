@@ -1,28 +1,10 @@
 # Tracker
-
-This is Online Lost and Found System developed By Sachin Sapkota, Saurav Chaulagain, Gaurav Dulal, Sanket Subedi and completed during Sept. 2023.
-
-
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Thank You](#thankyou)
+![Project Logo](user_panel/1_white.png)
+This is Online Lost and Found System developed By [Sachin Sapkota](https://github.com/Mercyenary), [Saurav Chaulagain](https://github.com/Sauravchaula), [Gaurav Dulal](https://github.com/GauravDulal), [Sanket Subedi](https://github.com/Sanketsubedi) and completed during Sept. 2023.
 
 ## Introduction
 
-OLFS (Online Lost and Found System), which is a web app designed to efficiently connect individuals who have lost their belongings with those who have found them. 
-The app features a user-friendly interface and posting mechanism to make the retrieval process easier and more efficient.
-The use of technologies like HTML, CSS, JS, PHP and SCSS have given us the opportunity to develop such a website. 
-Furthermore, there is a secure data management system and md5 encryption method that ensures the safety and privacy of user data.
-The goal of the platform is to simplify and improve the process of reuniting owners with their lost belongings. 
-To that end, the platform leverages the power of technology, while also encouraging community engagement. 
-By harnessing the collective power of users, the platform is able to create a network of support that can help make retrieving lost items a much smoother and more successful experience.
+OLFS (Online Lost and Found System), which is a web app designed to efficiently connect individuals who have lost their belongings with those who have found them. The app features a user-friendly interface and posting mechanism to make the retrieval process easier and more efficient. The use of technologies like HTML, CSS, JS, PHP and SCSS have given us the opportunity to develop such a website. Furthermore, there is a secure data management system and md5 encryption method that ensures the safety and privacy of user data. The goal of the platform is to simplify and improve the process of reuniting owners with their lost belongings. To that end, the platform leverages the power of technology, while also encouraging community engagement. By harnessing the collective power of users, the platform is able to create a network of support that can help make retrieving lost items a much smoother and more successful experience.
 
 ## Features
 
@@ -52,18 +34,17 @@ To use Tracker, follow these steps:
 
 - Configure Database Connection: Update the database connection details in the PHP files located in the project to match your local database settings.
 
-- Run the Application: Start the XAMPP Server and open your web browser. Navigate to http://localhost/Tracker/user_panel to access the OLFS application as user.
-  Navigate to http://localhost/Tracker/admin_panel to access the OLFS application as user.
+- Run the Application: Start the XAMPP Server and open your web browser. Navigate to http://localhost/Tracker/user_panel to access the Tracker web-application as user.
+  Navigate to http://localhost/Tracker/admin_panel to access the Tracker web-application as admin.
 
 
 ## Contributing
 
 This project is a result of collaborative efforts. Contributions, bug reports, and feedback are welcome from the open-source community. This project can be established in your own places which might include colleges, cafes, etc.
-If any support is required me and my team are here for you all just contact us through olfstracker@gmail.com
 
 ## License
 
-OLFS is distributed under the [MIT License](LICENSE).
+Tracker is distributed under the [MIT License](LICENSE).
 
-## thankyou
-We wanted to take a moment to express our heartfelt thanks for choosing Tracker as your Online Lost and Found System. Your decision to trust us with the important task of helping you recover lost items means the world to us.
+## Thank You
+We wanted to take a moment to express our heartfelt thanks for choosing Tracker as your Online Lost and Found System. Your decision to trust us with the important task of helping you recover lost items means the world to us. If any support is required me and my team are here for you all just contact us through tracker@gmail.com
