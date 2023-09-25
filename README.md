@@ -1,6 +1,8 @@
 # Tracker
 
-This is Online Lost and Found System developed and completed during Sept. 2023.
+This is Online Lost and Found System developed By Sachin Sapkota, Saurav Chaulagain, Gaurav Dulal, Sanket Subedi and completed during Sept. 2023.
+
+
 
 ## Table of Contents
 
